@@ -1,0 +1,49 @@
+* Features of Java (or) Java buzzwords :-
+There are many features of Java. They are also known as Java buzzwords.
+The features of Java given below
+• Simple:
+
+According to sun, Java language is simple because
+→ Syntax is based on C and c++.
+→ removed many confusing and rarely used features
+e.g. Explicit pointers, operator overloading etc.
+→ removed many confusing ava
+e.g, Explicit pointers, operator overloading etc.
+→ No need to remove unreferenced objects because there is automatic garbage collection in Java.
+→ It eliminates the complexities of C and c++, therefore Java has been made simple.
+
+• Object-oriented:
+
+→ object-oriented means wise organize our software as a combination of different types of objects that Contains both data and behaviour.
+→ object-oriented programming (Oops) is a Methodology that simplify software development and maintenance by providing some concepts & redes.
+→ The basic concepts of OOPs are:
+* Object
+* class
+* Inheritance
+* polymorphism
+* Abstraction
+* Encapsulation
+
+• platform independent:
+
+→ There are two types of platforms: software-based and hardware-based. Java provides software-based platform.
+→Java code can be run on multiple platforms
+e.g. Windows, Linux, Mac ios and etc.
+→Java code is compiled by the compiler and
+converted into byte code. This byte code is a platform independent code.
+→ It is achieved by JVM (Java Virtual Machine).
+The philosophy of Java is "Write Once, Run Anywhere (WORA).
+
+• Secured:
+
+→Java is secured because Java does not use explicit pointers and All Java programs runs inside the virtual Machine Sand box.
+→ Java uses the public key encryption system for providing security.
+
+- Robust:
+
+→ Robust simply means strong. Java is robust programming language because
+* Java uses strong Memory Management.
+* There are lack of pointers that avoids Security problem.
+* There is automatic garbage collection in Java.
+* There is exception handling and type checking
+
